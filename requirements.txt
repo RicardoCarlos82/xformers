@@ -1,4 +1,4 @@
 # Example requirement, can be anything that pip knows
 # install with `pip install -r requirements.txt`, and make sure that CI does the same
-torch == 1.12.0a0+2c916ef.nv22.3 
+torch == 1.14.0a0+44dac51c.nv23.1
 numpy
